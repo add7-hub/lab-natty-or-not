@@ -15,8 +15,9 @@ Atuei como o "Renan" durante todo o processo, utilizando o Gemini para conceber 
 
 ## 🚀 Resultados
 
+([IA em Casa Video](https://github.com/add7-hub/lab-natty-or-not/blob/main/IA%20em%20Casa_%20O%20Futuro.mp4))
 
-
+([O que o Renan acha das IAs que são usadas em casa? slide](https://github.com/add7-hub/lab-natty-or-not/blob/main/O-que-o-Renan-acha-das-inteligencias-artificiais-usadas-em-casa.pdf))
 
 ## 💭 Reflexão (Opcional)
 A reflexão que podemos tirar é sobre a transformação que a inteligência artificial traz para nossa vida, especialmente no ambiente doméstico. Ela proporciona mais conforto, segurança e eficiência, otimizando as tarefas diárias. No entanto, também nos faz refletir sobre a dependência e os limites dessas tecnologias, destacando a importância de um uso consciente e ético. Essa é a essência do nosso projeto!
