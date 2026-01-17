@@ -1,51 +1,22 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# O que o Renan acha das IAs que são usadas em casa?
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto demonstra a aplicação das inteligências artificiais generativas no cotidiano doméstico. Na visão do Renan, a iniciativa busca transformar a rotina através da personalização, eficiência e inovação, agregando conforto e qualidade de vida.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+1. Gemini (Inteligência Artificial Generativa): gemini.google.com - Utilizada para desenvolvimento da ideia principal, estruturação do projeto e geração dos prompts.
+
+2. Gamma App (Inteligência Artificial Generativa): gamma.app/pt-br - Empregada para desenvolvimento dos slides da apresentação.
+
+3. HeyGen (Inteligência Artificial Generativa): heygen.com/pt-br - Usada para criação dos vídeos.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Atuei como o "Renan" durante todo o processo, utilizando o Gemini para conceber e planejar a ideia principal, estruturar as informações e elaborar os prompts. Em seguida, o Gamma App foi empregado para criar os slides da apresentação, com design e conteúdo baseados nos prompts, e, por fim, o HeyGen foi utilizado para criar os vídeos complementares com avatares e narração, seguindo o roteiro planejado.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
+
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+A reflexão que podemos tirar é sobre a transformação que a inteligência artificial traz para nossa vida, especialmente no ambiente doméstico. Ela proporciona mais conforto, segurança e eficiência, otimizando as tarefas diárias. No entanto, também nos faz refletir sobre a dependência e os limites dessas tecnologias, destacando a importância de um uso consciente e ético. Essa é a essência do nosso projeto!
